@@ -1,0 +1,8 @@
+*.pdf
+.mxproject
+ES.ioc
+Core/
+Drivers/
+EWARM/
+Middlewares/
+USB_HOST/
