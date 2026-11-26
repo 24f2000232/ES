@@ -6,9 +6,9 @@ All 12 practical codes for **STM32F407G (STM32CubeIDE)** and **ESP32 (Arduino ID
 
 | PR | Practical | Board | Folder |
 |----|-----------|-------|--------|
-| 1 | LED blinking + JTAG/SWD debugging | STM32 compulsory | `PR01_02_03_STM32_LED_SquareWave_Debug/` |
-| 2 | 50% duty-cycle square wave + oscilloscope | STM32 compulsory | `PR01_02_03_STM32_LED_SquareWave_Debug/` |
-| 3 | Instruction-level debugging (PC, SP, LR, GPIO) | STM32 compulsory | `PR01_02_03_STM32_LED_SquareWave_Debug/` |
+| 1 | LED blinking + JTAG/SWD debugging | STM32 compulsory | `PR01_STM32_LED_Blink/` |
+| 2 | 50% duty-cycle square wave + oscilloscope | STM32 compulsory | `PR02_STM32_SquareWave_50Percent/` |
+| 3 | Instruction-level debugging (PC, SP, LR, GPIO) | STM32 compulsory | `PR03_STM32_Instruction_Debug/` |
 | 4 | SG90 Servo motor (50 Hz PWM: 0°, 90°, 180° for 2s) | STM32 compulsory | `PR04_STM32_Servo_SG90/` |
 | 5 | BLDC motor + ESC (smooth 1 ms ↔ 2 ms ramp) | STM32 compulsory | `PR05_STM32_BLDC_ESC/` |
 | 6 | DHT11 / DHT22 Temp & Humidity | ESP32 compulsory | `PR06_ESP32_DHT11/` |
